@@ -1,2 +1,0 @@
-# kodingin
-front end
