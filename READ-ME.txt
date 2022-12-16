@@ -1,4 +1,4 @@
-  =>  Template Name    : SafeCam - CCTV Website Template
+  =>  Template Name    : Koding.In
 
   =>  Template Link    : https://htmlcodex.com/cctv-website-template
 
